@@ -1,2 +1,2 @@
-# Clases-de-Analisis-de-Se-ales
+# Clases-de-Analisis-de-Señales
 Material de estudio para Analisis de Señales
